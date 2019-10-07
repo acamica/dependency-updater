@@ -1,0 +1,24 @@
+{
+  "name": "dependency-updater",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "yaml": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acamica/dependency-updater.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acamica/dependency-updater/issues"
+  },
+  "homepage": "https://github.com/acamica/dependency-updater#readme"
+}
